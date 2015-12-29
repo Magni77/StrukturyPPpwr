@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1451337079 source:d:\documents\c++\struktury\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
